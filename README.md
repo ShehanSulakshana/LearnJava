@@ -112,16 +112,6 @@ If you want, I can now:
 This repository is for educational purposes. Feel free to use, modify, and learn from these programs.
 
 ---
-
-## 🎯 Next Steps
-
-Once you've completed these programs:
-- Try building your own projects
-- Explore **Collections** (ArrayList, HashMap)
-- Learn **Exception Handling** in detail
-- Study **Database connectivity** with JDBC
-- Explore **Spring Framework** for web development
-
 ---
 
 **Happy Learning! 🚀**
